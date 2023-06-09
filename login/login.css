@@ -1,0 +1,50 @@
+* {
+  margin: 12px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.wrapper {
+  width: 330px;
+  padding: 2rem 1rem;
+  margin: 50px auto;
+  text-align: center;
+  background: rgb(226, 226, 226);
+  box-shadow: 0px 4px 4px rgba(147, 147, 147, 0.25);
+  border-radius: 30px;
+}
+
+.wrapper form input {
+  width: 92%;
+  outline: none;
+  border: 1px solid #ffffff;
+  padding: 12px 20px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  background: #d9d9d9;
+}
+
+.wrapper .btn {
+  font-size: 1rem;
+  margin-top: 1.8rem;
+  padding: 10px 0;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  width: 90%;
+  cursor: pointer;
+  background: #f9fcff;
+}
+
+.wrapper .login-btn {
+  font-size: 1rem;
+  margin-top: 1.8rem;
+  padding: 10px 0;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  width: 90%;
+  cursor: pointer;
+  background: #008cff;
+}
